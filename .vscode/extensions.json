@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+        "shardulm94.trailing-spaces",
+        "wayou.vscode-todo-highlight",
+        "rvest.vs-code-prettier-eslint",
+        "dbaeumer.vscode-eslint",
+        "ms-vsliveshare.vsliveshare",
+        "eamodio.gitlens",
+        "sonarsource.sonarlint-vscode",
+        "github.vscode-pull-request-github",
+    ]
+}
