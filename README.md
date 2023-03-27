@@ -8,6 +8,11 @@ Initial configurations to a React + Vite project in TypeScript.
 ### Eslint + Prettier + Airbnb Config
 Resource: [Video](https://youtu.be/cchqeWY0Nak?t=519)
 
+### Stylelint
+Resources:
+-[Video](https://youtu.be/UNNSm1pw1is?t=8892)
+-[HomePage](https://stylelint.io/)
+
 ### Vitest + React Testing Library
 Resources:
 - [Video](https://youtu.be/cchqeWY0Nak?t=1435)

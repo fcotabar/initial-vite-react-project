@@ -6,7 +6,7 @@
         "dbaeumer.vscode-eslint",
         "ms-vsliveshare.vsliveshare",
         "eamodio.gitlens",
-        "sonarsource.sonarlint-vscode",
+        "stylelint.vscode-stylelint",
         "github.vscode-pull-request-github",
     ]
 }
